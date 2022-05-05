@@ -8,7 +8,7 @@ public class skillDemoTest {
 
     @Test
     public void summed(){
-        assertEquals(20, skillDemo.sum(trial));
+        assertEquals(15, skillDemo.sum(trial));
     }
     
 }
